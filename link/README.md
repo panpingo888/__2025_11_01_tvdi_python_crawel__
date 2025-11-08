@@ -5,3 +5,8 @@ https://youtube.com/live/_LeiZwQQMKU
 https://youtube.com/live/Nsm0otgUvno
 
 ---
+
+## 2025_11_08_上午
+https://meet.google.com/wvr-dpms-iim
+
+---
