@@ -17,4 +17,7 @@ https://youtube.com/live/whQ6__DdQGo
 ## 2025_11_15_早上
 https://www.youtube.com/watch?v=DJ0UqMn71u0
 
+## 2025_11_15_下午
+https://www.youtube.com/watch?v=GR7M_s21j8g
+
 ---
