@@ -5,7 +5,7 @@ def run():
     with sync_playwright() as p:
         print(f"p={type(p)}")
         # 啟動瀏覽器
-        browser = p.webkit.launch(headless=False)
+        browser = p.firefox.launch(headless=False)
         
         print(f"browser:{type(browser)}")
         # 開啟新分頁
