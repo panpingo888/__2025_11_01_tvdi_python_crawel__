@@ -14,7 +14,7 @@ def run():
         print(f"page:{type(page)}")
         
         # 訪問網站
-        page.goto("https://www.google.com")
+        page.goto("https://www.firefox.com")
         
         # 取得標題
         print(page.title())
