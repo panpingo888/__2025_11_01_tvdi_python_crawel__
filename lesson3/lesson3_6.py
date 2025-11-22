@@ -5,7 +5,7 @@ def run():
     with sync_playwright() as p:
         print(f"p={type(p)}")
         # 啟動瀏覽器
-        browser = p.firefox.launch(headless=False)
+        browser = p.google.launch(headless=False)
         
         print(f"browser:{type(browser)}")
         # 開啟新分頁
@@ -14,7 +14,7 @@ def run():
         print(f"page:{type(page)}")
         
         # 訪問網站
-        page.goto("https://www.firefox.com")
+        page.goto("https://www.google.com")
         
         # 取得標題
         print(page.title())
